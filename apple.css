@@ -1,0 +1,66 @@
+/* This webpage is simple because picasso once said, "Simplicity is the ultimate sophistication". */
+h1 {
+    text-align-last: center;
+	color: #b30000;
+	font-size: 34pt;
+}
+
+h2 {
+	text-align-last: left;
+	font-size: 32pt;
+	color: #707070;
+}
+
+#top {
+	
+}
+
+h3 {
+    text-align-last: center;
+	color: #000099;
+	font-size: 22pt;
+}	
+
+.list {
+    font-family: Arial, sans-serif;
+	font-size: 16pt;
+	text-align: left;
+}
+	
+.wrap {
+    background: url(applelogo.png) no-repeat center center fixed ;
+	width: 100%;
+	background-size: cover;
+}
+
+p {
+    text-align: justify;
+	font-size: 14pt;
+	line-height: 2em;
+}
+
+div.bad {
+    width: 60%;
+	margin: auto;
+	height: 100%;
+	text-align: center;
+}
+
+.left-img {
+	text-align: center;
+}
+
+ol {
+	font-size: 12pt;
+	text-align: left;
+	line-height: 1.5em;
+}
+
+body {
+	margin-top: 4%;
+	font-family: Arial, sans-serif;
+}
+	
+	
+
+
